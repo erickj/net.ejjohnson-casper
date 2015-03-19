@@ -1504,16 +1504,24 @@ body:not(.post-template) .post-title {
     }
 
     h1 {
-        font-size: 4.5rem;
+	/** Erick overrides */
+        font-size: 5rem;
+	font-weight: 100;
+	/** /Erick overrides */
         text-indent: -2px;
     }
 
     h2 {
-        font-size: 3.6rem;
+	/** Erick overrides */
+        font-size: 3.8rem;
+	font-weight: 100;
+	/** /Erick overrides */
     }
 
     h3 {
-        font-size: 3.1rem;
+	/** Erick overrides */
+        font-size: 2.8rem;
+	/** /Erick overrides */
     }
 
     h4 {
